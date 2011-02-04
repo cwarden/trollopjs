@@ -893,3 +893,6 @@ exports.options = function() {
     return null;
   }
 }
+
+exports.HelpNeeded = HelpNeeded;
+exports.VersionNeeded = VersionNeeded;
